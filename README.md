@@ -1,6 +1,4 @@
 ## Team _Pado_<a id="팀-소개">
-
-[<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://cool-mallow-c40.notion.site/pado-FINAL-12850a7aee80802da129e6343bb2f12b?pvs=4)
 | <img src="https://github.com/user-attachments/assets/5a0d8aa8-0a1f-41f3-a93f-b2985c1765d6" height="100"/> | <img src="https://github.com/user-attachments/assets/79d48cf7-bdd4-4ec1-831c-bb57d5d9f57d" height="100"/> | <img src="https://github.com/user-attachments/assets/74133185-5305-4361-a9e0-52e76f67de3d" height="100"/> | <img src="https://github.com/user-attachments/assets/a17e5ef4-f7be-48fb-ae41-5cd3b27f5918" height="100"/> | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height="100"/> | <img src="https://github.com/user-attachments/assets/87c92c58-17cc-4ee5-bd27-6e580623a86e" height="100"/>|
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | 박경희 | 윤채연 | 전기범 | 장민근 | 조창욱 | 최해관 | 
@@ -9,6 +7,19 @@
 
 ---
 
+
+## 📢 발표 영상  
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red?logo=youtube)](https://www.youtube.com/watch?v=zQwBRuSwOas)  
+
+## 🔗 협업 자료  
+[![Notion](https://img.shields.io/badge/Notion-View-333333?logo=Notion)](https://cool-mallow-c40.notion.site/pado-FINAL-12850a7aee80802da129e6343bb2f12b?pvs=4)
+
+---
+
+# 📌 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/e21397c2-aa73-4579-a67f-245f0bf778af)
+
+---
 # 기술 스택 <a id="기술-스택">
 
 ### 1. Backend <a id="1-backend"></a>
@@ -132,10 +143,6 @@
 
 ### 📌 단위 테스트 결과서
 [![단위 테스트 결과서 다운로드](https://img.shields.io/badge/📑_단위_테스트_결과서-다운로드-4A90E2?style=for-the-badge&logo=readthedocs&labelColor=blue)](https://github.com/user-attachments/files/18246698/Pado_.pdf)
-
-
-### 📌 시스템 아키텍처
-![image](https://github.com/user-attachments/assets/e21397c2-aa73-4579-a67f-245f0bf778af)
 
 ### 📌 프로그램 사양서
 
@@ -292,3 +299,4 @@
 | **장민근** | 처음 경험해보는 큰 규모의 프로젝트였지만 팀원들의 도움 덕분에 끝까지 **완주**할 수 있어 감사함. 이 경험을 바탕으로 더 **복잡한 프로젝트**에서도 역할을 기대함.     |
 | **윤채연** | 6주라는 시간 동안의 **기획부터 설계, 개발, 발표 준비**까지 모든 과정을 경험하며 소중한 경험을 쌓음. 기획, UI/UX 디자인, 프론트, 백엔드까지 모두 참여하며 **성장**할 수 있었다. |
 | **박경희** | 문서 파일을 이용한 데이터 일괄 처리 기능을 구현함. 프론트와 서버 모두를 구현하면서 **프론트/서버 개발자들의 협업**이 얼마나 중요한지를 알 수 있었다.        |
+
